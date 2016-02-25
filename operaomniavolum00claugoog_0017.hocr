@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniavolum00claugoog_0017.png"; bbox 0 0 2925 4928; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 263 1847 2335 1971">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 263 1847 2335 1971">
+     <span class='ocr_line' id='line_1_1' title="bbox 263 1847 2335 1971; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 263 1848 1108 1971; x_wconf 87' lang='lat' dir='ltr'><strong>CLAUDII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1232 1847 2335 1970; x_wconf 87' lang='lat' dir='ltr'><strong>CLAUDIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 758 2472 1818 2574">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 758 2472 1818 2574">
+     <span class='ocr_line' id='line_1_2' title="bbox 758 2472 1818 2574; baseline -0.008 0"><span class='ocrx_word' id='word_1_3' title='bbox 758 2477 1232 2574; x_wconf 83' lang='lat' dir='ltr'><strong>OPERA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1314 2472 1818 2572; x_wconf 89' lang='lat' dir='ltr'><strong>OMNIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
